@@ -10,7 +10,7 @@ The best application to prepare for you interstellar trips
 ### To run
 
 After compiling this project, Call the executable: StarWarsTripCalculator.exe
-and follow the in screen structions
+and follow the in screen instructions
 
 
 ### To run VS tests
